@@ -4,7 +4,9 @@
  * SPDX-License-Identifier: CC0-1.0
  */
 
-int main(void)
-{
+ int my_counter = 0;
 
-}
+ int main (void)
+ {
+     my_counter++;
+ }
